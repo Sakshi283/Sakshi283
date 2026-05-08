@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sakshi Priya
-### 🌱 I’m a B.Tech CSE student passionate about web development, coding, and building awesome projects.
+###  I’m a B.Tech CSE student passionate about web development, coding, and building awesome projects.
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 </p>
@@ -51,7 +51,6 @@ Databases
   <table>
     <tr>
 
-      <!-- Project 1 -->
  <td align="center" width="33%">
         <img src="bug.gif" width="200"/>
         <h3> AR based Interior Design Planner</h3>
@@ -59,7 +58,7 @@ Databases
         <p><em>: A web-based augmented reality application that enables users to visualize and customize interior layouts by placing virtual furniture in real-world environments using image uploads or live camera input.</em></p>
         <p><strong>🔥 Features:</strong>AR interface allowing real-time furniture placement, resizing, and layout customization, improving user experience in interior planning.</p>
 
-        <div align="center">
+  
          
         </div>
       </td>
