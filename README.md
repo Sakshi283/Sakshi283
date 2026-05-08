@@ -42,26 +42,76 @@ Databases
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
   <h1>🚀 FEATURED PROJECTS SHOWCASE 🚀</h1>
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
 </div>
 
+<hr>
+
 <div align="center">
-  <table>
-    <tr>
 
- <td align="center" width="33%">
-        <img src="bug.gif" width="200"/>
-        <h3> AR based Interior Design Planner</h3>
-        <p><code>HTML + Tailwind CSS + JavaScript + PHP + MySQL</code></p>
-        <p><em>: A web-based augmented reality application that enables users to visualize and customize interior layouts by placing virtual furniture in real-world environments using image uploads or live camera input.</em></p>
-        <p><strong>🔥 Features:</strong>AR interface allowing real-time furniture placement, resizing, and layout customization, improving user experience in interior planning.</p>
+<table>
+<tr>
 
-  
-         
-        </div>
-      </td>
+<td align="center" width="50%">
+
+
+
+### DesignVision
+
+`HTML + Tailwind + JavaScript + PHP + MySQL`
+
+<br>
+
+<em>AR Based Interior Design Planner</em>
+
+<br><br>
+
+🔥 **Features:** Real-time furniture placement, resizing, and layout customization
+
+<br><br>
+
+<a href="https://github.com/Sakshi283/Design-Vision" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250"/>
+
+### 🎙️ AI Home Maintainance Chatbot
+
+`HTML + CSS + JavaScript + Python(Flask)`
+
+<br>
+
+<em>Diagnosing common household issues and providing step-by-step maintenance guidance through an interactive chat interface</em>
+
+<br><br>
+
+🔥 **Features:** Real-time, accurate repair suggestions, issue categorization, and personalized maintenance tips
+
+<br><br>
+
+<a href="https://github.com/Sakshi283/Home-Maintenance-Chatbot" target="_blank">
+<img src="https://img.shields.io/badge/View_Project-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=🚀+More+Awesome+Projects+Coming+Soon!;⭐+Star+My+Repos+If+You+Like+Them!;🤝+Open+To+Collaborations!" />
+
+</div>
       
 
 
