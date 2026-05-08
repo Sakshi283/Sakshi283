@@ -78,9 +78,9 @@ Databases
 
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250"/>
 
-### 🎙️ AI Home Maintainance Chatbot
+
+###  AI Home Maintainance Chatbot
 
 `HTML + CSS + JavaScript + Python(Flask)`
 
@@ -106,15 +106,6 @@ Databases
 </div>
 
 <br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=700&lines=🚀+More+Awesome+Projects+Coming+Soon!;⭐+Star+My+Repos+If+You+Like+Them!;🤝+Open+To+Collaborations!" />
-
-</div>
-      
-
-
 
 
 ## 🌐 Connect with me
