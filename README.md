@@ -39,8 +39,31 @@ Databases
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+<br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
+  <h1>🚀 FEATURED PROJECTS SHOWCASE 🚀</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/213760677-0d8a019e-9d68-4fb3-bdf2-0e6f56d65b6c.gif" width="60">
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+
+      <!-- Project 1 -->
+ <td align="center" width="33%">
+        <img src="bug.gif" width="200"/>
+        <h3> AR based Interior Design Planner</h3>
+        <p><code>HTML + Tailwind CSS + JavaScript + PHP + MySQL</code></p>
+        <p><em>: A web-based augmented reality application that enables users to visualize and customize interior layouts by placing virtual furniture in real-world environments using image uploads or live camera input.</em></p>
+        <p><strong>🔥 Features:</strong>AR interface allowing real-time furniture placement, resizing, and layout customization, improving user experience in interior planning.</p>
+
+        <div align="center">
+         
+        </div>
+      </td>
+      
 
 
 
